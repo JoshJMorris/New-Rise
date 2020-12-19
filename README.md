@@ -1,2 +1,1 @@
-A turn based strategy game, new rise. 
-A location to store all the scripts for the game "New Rise"
+A repository for my prototype level I'm producing for college.
